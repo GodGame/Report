@@ -23,3 +23,5 @@ none	// 21 week
 none	// 22 week
 none 	// 23 week
 https://youtu.be/yM0XnQuFeXs		    // 24 week
+none	// 25 week
+https://www.youtube.com/watch?v=WyEdI_KtxKo&feature=youtu.be	// 26 week
